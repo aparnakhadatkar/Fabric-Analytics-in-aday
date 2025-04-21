@@ -96,7 +96,17 @@ By the end of this lab, you will have learned:
 
 8. Navigate back to the **Dataflow screen** in the browser.
 
-9. In the **Dataflow pane**, enter **Ctrl+V** (currently right click Paste is not supported). If you are using MAC device, please use **Cmd+V** to paste.
+1. Right-click on **Query (1)** and then select **Duplicate (2)**.
+
+   ![](../media/lab-04/1.png)
+
+1. Under properties change the query name to **People**.
+
+   ![](../media/lab-04/2.png)
+
+9. In the **Dataflow pane**, press **Ctrl+V** (or **Cmd+V** on a Mac) to paste the content under the *People* query. Please note that right-click and paste is currently not supported.
+
+   ![](../media/lab-04/3.png)
 
    >**Note**: If you are working in the lab environment, please select the
    ellipsis on the top right of the screen. Use the slider to **enable VM Native Clipboard**. Select OK in the dialog. Once done pasting the
